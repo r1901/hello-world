@@ -1,2 +1,6 @@
 # hello-world
-Just another repository
+
+Hi!
+
+Rafaela here! I like music and books.
+Also tecnology.
